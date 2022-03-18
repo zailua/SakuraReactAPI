@@ -1,5 +1,5 @@
 import Type from '../../components/Writer/writer';
-import Rain from '../../components/Rain/rain'
+import Rain from '../../components/Rain/Rain'
 import './Home.css'
 const Home = () => {
 	return (
