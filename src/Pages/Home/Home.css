@@ -8,6 +8,12 @@ html {
   height: 100%;
   background: #1c1d22;
   font-family: 'Varela Round', sans-serif;
+  overflow: hidden;
+}
+
+body {
+  background-image: url('../../assets/tokyo.jpg');
+  background-size: cover;
 }
 
 :root {
