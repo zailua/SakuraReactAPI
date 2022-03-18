@@ -14,7 +14,7 @@ function Header() {
 		<header>
 			<nav>
 				<label className="logo">
-					<img src="./src/components/Header/sakura.png" alt="logo.png" />
+					<img src="./src/components/Header/sakura.png" alt="log.png" />
 				</label>
 				<input type="checkbox" id="check" />
 				<label for="check" className="button">
