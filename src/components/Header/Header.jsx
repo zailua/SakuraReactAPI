@@ -11,7 +11,7 @@ import './Header.css'
 
 function Header() {
 	return (
-		<header>
+		<header className="container">
 			<nav>
 				<label className="logo">
 					<img src="https://i.ibb.co/XZKcRnP/sakura.png" alt="log.png" />
@@ -22,7 +22,7 @@ function Header() {
 					<span></span>
 					<span></span>
 				</label>
-				<ul class="menu">
+				<ul className="menu">
 					<li>
 						<NavLink activeClassName="active" to="/">
 							Home

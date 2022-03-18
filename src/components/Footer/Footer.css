@@ -6,4 +6,13 @@ footer {
   background-color: #02002f;
   color: #777;
   text-align: center;
+  display: hidden;
+}
+
+@media (max-width: 852px){
+
+  footer {
+    display: none;
+  }
+  
 }
